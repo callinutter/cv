@@ -1,0 +1,25 @@
+body {
+    background-color: #f7e8f6; 
+  }
+
+  h1 {
+    color: #39375b;
+    text-decoration: underline overline;
+  }
+
+  h3 {
+    color: #745c97;
+
+  }
+
+  
+  hr {
+    
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 6px;
+    width: 10%;
+
+    }
+
+  
